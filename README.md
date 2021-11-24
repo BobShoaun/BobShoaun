@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Get the full picture in my [website](https://www.bobng.me/)
+
 <!--
 **BobShoaun/BobShoaun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
