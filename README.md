@@ -2,10 +2,7 @@
 
 Get the full picture from my [website](https://www.bobng.me/)
 
-![image](https://github-readme-streak-stats.herokuapp.com/?user=bobshoaun)
-
 ![image](https://github-readme-stats.vercel.app/api?username=bobshoaun)
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=bobshoaun)
 
 <!--
 **BobShoaun/BobShoaun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
