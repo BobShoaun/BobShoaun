@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-Get the full picture from my [website](https://www.bobng.me/)
+### Get the full picture from my [website](https://www.bobng.me/)
 
 ![image](https://github-readme-stats.vercel.app/api?username=bobshoaun)
 
