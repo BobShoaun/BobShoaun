@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋
+
+I build and design industry standard web applications.
 
 Get the full picture from my [website](https://www.bobng.me/)
 
