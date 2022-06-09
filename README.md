@@ -4,9 +4,12 @@ I build and design industry standard web applications.
 
 Get the full picture from my [website](https://www.bobng.me/)
 
-![image](https://github-readme-stats.vercel.app/api?username=bobshoaun&count_private=true&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/bobshoaun">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bobshoaun&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/bobshoaun">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobshoaun&exclude_repo=The-CSC207-Calendar&hide=shaderlab,hlsl&layout=compact&langs_count=10&theme=tokyonight" />
+</a>
 
 <!--
 **BobShoaun/BobShoaun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
