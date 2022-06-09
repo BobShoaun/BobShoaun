@@ -6,6 +6,8 @@ Get the full picture from my [website](https://www.bobng.me/)
 
 ![image](https://github-readme-stats.vercel.app/api?username=bobshoaun&count_private=true&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **BobShoaun/BobShoaun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
