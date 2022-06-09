@@ -1,15 +1,13 @@
-## Hi there 👋
+## Hi there 👋 
 
-I build and design industry standard web applications.
+I ❤️ creating extraordinary web experiences, I enjoy both frontend and backend web development (with a slight preference to frontend). 
 
-Get the full picture from my [website](https://www.bobng.me/)
+Learn more about me at my [portfolio website](https://www.bobng.me/). 😊
 
-<a href="https://github.com/bobshoaun">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bobshoaun&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/bobshoaun">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobshoaun&exclude_repo=The-CSC207-Calendar&hide=shaderlab,hlsl&layout=compact&langs_count=10&theme=tokyonight" />
-</a>
+![My Stats](https://github-readme-stats.vercel.app/api?username=bobshoaun&count_private=true&show_icons=true&theme=tokyonight)
+
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=bobshoaun&exclude_repo=The-CSC207-Calendar&hide=shaderlab,hlsl&layout=compact&langs_count=10&theme=tokyonight)
+
 
 <!--
 **BobShoaun/BobShoaun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
