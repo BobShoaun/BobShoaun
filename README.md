@@ -2,7 +2,7 @@
 
 I ❤️ creating extraordinary web experiences, I enjoy both frontend and backend web development (with a slight preference to frontend). 
 
-Learn more about me at my [portfolio website](https://www.bobng.me/). 😊
+Learn more about me from my [portfolio website](https://www.bobng.me/). 😊
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=bobshoaun&count_private=true&show_icons=true&theme=tokyonight)
 
