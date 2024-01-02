@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-I ❤️ creating extraordinary web experiences, I enjoy both frontend and backend web development (with a slight preference to frontend). 
+I ❤️ creating extraordinary web experiences, I enjoy both frontend and backend web development. 
 
 Learn more about me from my [portfolio website](https://www.bobng.me/). 😊
 
